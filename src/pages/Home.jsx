@@ -49,7 +49,7 @@ const Home = () => {
             <section className="section bg-cream">
                 <div className="container about-preview">
                     <div className="about-preview-text">
-                        <h2 className="section-title" style={{ textAlign: 'left' }}>The Essence of Nature</h2>
+                        <h2 className="section-title text-left">The Essence of Nature</h2>
                         <p className="lead-text">
                             PT Gaharu Nusantara is dedicated to the sustainable cultivation, meticulous processing, and global trading of premium agarwood.
                         </p>
