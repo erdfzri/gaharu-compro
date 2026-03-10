@@ -29,6 +29,7 @@
 
 html {
   scroll-behavior: smooth;
+  font-size: 80%;
 }
 
 body {
@@ -210,7 +211,7 @@ ul {
 
 @media (max-width: 768px) {
   html {
-    font-size: 95%;
+    font-size: 75%;
   }
 
   .section {
@@ -240,7 +241,7 @@ ul {
 
 @media (max-width: 576px) {
   html {
-    font-size: 90%;
+    font-size: 70%;
   }
 
   .page-header {
