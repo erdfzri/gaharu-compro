@@ -72,6 +72,8 @@
     line-height: 1.1;
     margin-bottom: 2rem;
     text-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .hero-desc {

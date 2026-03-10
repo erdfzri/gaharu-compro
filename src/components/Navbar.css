@@ -41,6 +41,7 @@
     font-weight: 700;
     font-size: 1.2rem;
     letter-spacing: 1px;
+    white-space: nowrap;
 }
 
 .logo-subtext {
@@ -110,7 +111,7 @@
     display: none;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1024px) {
 
     .nav-menu,
     .nav-actions.desktop-only {
